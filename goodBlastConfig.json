@@ -9,5 +9,6 @@
   "reward3": 2000,
   "reward4to10": 1000,
   "tournamentEntryTopic": "tournament_entrance",
-  "userProgressUpdateTopic": "user_progress_update"
+  "userProgressUpdateTopic": "user_progress_update",
+  "leaderboardUpdateTopic": "leaderboard_update"
 }

@@ -1,0 +1,12 @@
+{
+  "tokenTTL": 24,
+  "coinPerLevel": 100,
+  "tournamentCutoffHour": 23,
+  "minimumTournamentEntryLevel": 10,
+  "tournamentEntranceCoins": 500,
+  "reward1": 5000,
+  "reward2": 3000,
+  "reward3": 2000,
+  "reward4to10": 1000,
+  "tournamentEntryTopic": "tournament_entrance"
+}
